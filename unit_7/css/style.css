@@ -1,6 +1,6 @@
 * { margin:0; padding:0; box-sizing:border-box; }
 body {
-	background: #FFF;
+	background: #373737;
 	color:#333;
 	font-family: 'Poiret One', cursive;
 	font-size: 20px;
@@ -12,12 +12,23 @@ img {
 h1 {
 	font-family: 'Varela Round', sans-serif;
 	font-size: 2em;
+	text-align: center;
 	margin: 0.75em 0;
+	color: #f4f4f4;
 }
 h2 {
 	font-family: 'Varela Round', sans-serif;
-	font-size: 1.5em;
+	font-size: 2em;
+	text-align: center;
 	margin: 1em 0;
+	color: #373737;
+}
+h3 {
+	font-family: 'Varela Round', sans-serif;
+	font-size: 2em;
+	text-align: center;
+	margin: 1em 0;
+	color: #f4f4f4;
 }
 p {
 	margin: 1em 0;
@@ -69,22 +80,36 @@ footer {
     line-height: 80px;   
 }
 .hero-section {
-  background: url("http://media.virbcdn.com/images/ff/6fc88503f7cd8fae-orig_rooster_header_image.jpg") 50% no-repeat;
+  background: url("http://c8.alamy.com/comp/GMG6P3/perspective-black-and-white-wooden-table-top-with-brick-wall-decorated-GMG6P3.jpg") 50% no-repeat;
+  height: 400px;
+  margin: 25px;
+  background-position: center;
+  background-repeat: no-repeat;
   background-size: cover;
-  height: 60vh;
-  text-align: center;
-  display: -webkit-flex;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-align-items: center;
-      -ms-flex-align: center;
-          align-items: center;
-  -webkit-justify-content: center;
-      -ms-flex-pack: center;
-          justify-content: center;
+  position: relative;
 }
-.hero-section .hero-section-text {
-  color: #fefefe;
-  text-shadow: 1px 1px 2px #0a0a0a;
+.hero-section-text {
+	text-align: center;
+	position: absolute;
+	top: 150px;
+	left: 650px;
+	transform: translate(-50%, -50%);
+	color: #373737;
 }
-
+.hero-section-fuel {
+  background: url("http://s3.favim.com/orig/39/bampw-black-amp-white-black-and-white-coffee-cup-Favim.com-326547.jpg") 50% no-repeat;
+  height: 400px;
+  margin: 25px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+.hero-section-fuel-text {
+	text-align: center;
+	position: absolute;
+	top: 200px;
+	left: 630px;
+	transform: translate(-50%, -50%);
+	color: #373737;
+}
