@@ -2,7 +2,7 @@
 body {
 	background: #373737;
 	color:#333;
-	font-family: 'Poiret One', cursive;
+	font-family: 'Anton', sans-serif;
 	font-size: 20px;
 }
 img {
@@ -78,13 +78,13 @@ footer {
   background: url("http://c8.alamy.com/comp/GMG6P3/perspective-black-and-white-wooden-table-top-with-brick-wall-decorated-GMG6P3.jpg") 50% no-repeat;
   height: 400px;
   margin: 25px;
-  background-position: center;
+  background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
   position: relative;
 }
 .hero-section-text {
-	text-align: center;
+	text-align: center center;
 	position: absolute;
 	top: 150px;
 	left: 650px;
@@ -95,13 +95,13 @@ footer {
   background: url("https://previews.123rf.com/images/weedezign/weedezign1506/weedezign150600644/41688303-Black-and-white-blur-background-bokeh-light-at-coffee-shop--Stock-Photo.jpg") 50% no-repeat;
   height: 400px;
   margin: 25px;
-  background-position: center;
+  background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
   position: relative;
 }
 .hero-section-fuel-text {
-	text-align: center;
+	text-align: center center;
 	position: absolute;
 	top: 200px;
 	left: 630px;
