@@ -35,8 +35,37 @@ nav a:hover {
 	color: #0b421a;
 }
 footer {
-	background: rgba(0,0,0,0.3);
+	background: rgba(0,0,0,0.2);
 	text-align: center;
 	color: #fff;
 	padding: 2em 0;
 	margin-top: 140px;
+}
+#social-media {
+  background: rgba(0,0,0,0.2);
+  color: #FFF;
+  text-align: left;
+  padding: 1em 2em;
+}
+#social-media h4 {
+  display: inline-block;
+  margin-right: 8px;
+}
+.social-links {
+  display: inline-block;
+}
+.social-link {
+  display: inline-block;
+  margin-right: 8px
+}
+.social-link i,
+.social-link img {
+  width: 25px;
+  color: #000;
+}
+.social-link a {
+  background-color: transparent;
+}
+.social-link a:hover {
+  background-color: transparent;
+}
