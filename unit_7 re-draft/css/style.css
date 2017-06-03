@@ -1,8 +1,12 @@
+html {
+	background-size: cover;
+}
 body {
 	background-size: 1400px 800px;
 	background-repeat: no-repeat;
 }
 #intro {
+	background: url("images/background.jpg") no-repeat center center;
 	font-family: 'platino', cursive;
 	font-size: 32px;
 	color: white;
