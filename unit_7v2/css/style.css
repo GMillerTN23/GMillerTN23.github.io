@@ -15,8 +15,7 @@ nav a {
 	text-decoration: none;
 	display: inline-block;
 	padding: 1em;
-    margin-right: 30px;
-}	
+   }	
 nav a:hover {
 	background-color: #fffcfc;
 	color: #0b421a;
@@ -26,7 +25,7 @@ nav a:hover {
 	font-size: 32px;
 	color: white;
 	text-align: center;
-	margin-top: 30px;
+	margin-top: 3%;
 	margin-left: auto;
 	margin-right: auto;
 	width: 50%;	
@@ -49,7 +48,7 @@ p{
 	font-size: 32px;
 	color: white;
 	text-align: center;
-	margin-top: 30px;
+	margin-top: 3%;
 	margin-left: auto;
 	margin-right: auto;
 	width: 90%;	
@@ -60,7 +59,7 @@ p{
 	font-size: 32px;
 	color: white;
 	text-align: center;
-	margin-top: 20px;
+	margin-top: 3%;
 	margin-left: auto;
 	margin-right: auto;
 	width: 50%;	
@@ -73,7 +72,7 @@ p{
 	font-size: 32px;
 	color: white;
 	text-align: center;
-	margin-top: 30px;
+	margin-top: 3%;
 	margin-left: auto;
 	margin-right: auto;
 	width: 90%;	
@@ -84,7 +83,7 @@ p{
 	font-size: 32px;
 	color: white;
 	text-align: center;
-	margin-top: 20px;
+	margin-top: 3%;
 	margin-left: auto;
 	margin-right: auto;
 	width: 50%;	
@@ -97,7 +96,7 @@ p{
 	font-size: 32px;
 	color: white;
 	text-align: center;
-	margin-top: 30px;
+	margin-top: 3%;
 	margin-left: auto;
 	margin-right: auto;
 	width: 90%;	
@@ -108,7 +107,7 @@ p{
 	font-size: 32px;
 	color: white;
 	text-align: center;
-	margin-top: 20px;
+	margin-top: 3%;
 	margin-left: auto;
 	margin-right: auto;
 	width: 50%;	
@@ -131,24 +130,25 @@ footer {
 	text-align: center;
 	color: #fff;
 	padding: 2em 0;
+	margin-top: 0%;
 }
 #social-media {
   background: rgba(0,0,0,0.3);
   color: #FFF;
   text-align: left;
   padding: 2em 0;
-  margin-top: 140px;
+  margin-top: 3%;
 }
 #social-media h4 {
   display: inline-block;
-  margin-right: 8px;
+  margin-right: 1%;
 }
 .social-links {
   display: inline-block;
 }
 .social-link {
   display: inline-block;
-  margin-right: 8px
+  margin-right: 0%;
 }
 .social-link i,
 .social-link img {
