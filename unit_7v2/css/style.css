@@ -3,7 +3,7 @@ body {
 	background-color: #fff;	
 }
 nav {
-	background: #000;
+	background: #484759;
 	text-align: center;
 }
 nav a {
@@ -28,7 +28,7 @@ nav a:hover {
 	text-align: center;
 	margin-left: auto;
 	margin-right: auto;
-	line-height: 4em;
+	line-height: 5em;
 }
 #intro {
 	font-family: 'helvetica', cursive;
@@ -131,14 +131,15 @@ p{
 	display: block;
 }
 footer {
-	background: #000;
+	background: #484759;
 	text-align: center;
 	font-family: 'helvetica', cursive;
 	font-size: 20px;
 	color: #fff;
+	padding-bottom: 1%;
 }
 #social-media {
-  background: #000;
+  background: #484759;
   color: #FFF;
   text-align: left;
   line-height: 5em;
