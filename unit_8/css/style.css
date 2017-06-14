@@ -165,3 +165,21 @@ footer {
 .social-link a:hover {
   background-color: transparent;
 }
+@media screen and (max-width: 700px) { 
+	h1 { 
+		font-size: 100%;  
+		} 
+	}
+@media screen and (max-width: 550px) { 
+	h1 { 
+		font-size: 70%;  
+		} 
+	}
+@media screen and (max-width: 400px) { 
+	h1 { 
+		font-size: 60%;  
+		} 
+	p {
+		font-size: 40%;
+	}
+	}
