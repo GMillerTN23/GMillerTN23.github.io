@@ -213,9 +213,9 @@ footer {
 }
 @media screen and (max-height: 568px) { 
 	h1 { 
-		font-size: 10%;  
+		font-size: 80%;  
 		} 
 	p {
-		font-size: 10%;
+		display: none;
 	}
 	}
