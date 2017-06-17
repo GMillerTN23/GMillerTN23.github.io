@@ -216,9 +216,6 @@ footer {
 		font-size: 50%;  
 		} 
 	p {
-		font-size: 30%;
+		display: none;
 	}
-    #introimage {
-    	line-height: 2em;
     }
-}
