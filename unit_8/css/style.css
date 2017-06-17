@@ -211,3 +211,57 @@ footer {
 	display: block;
 		   }	
 }
+@media screen and (max-width: 480px) {
+	nav, nav a {
+	display: block;
+	}
+	h1 { 
+		font-size: 50%;  
+		} 
+	p {
+		font-size: 40%;
+	}
+	h2 {
+		font-size: 50%;
+	}
+	footer{
+		font-size: 80%;
+	}
+	h4 {
+		font-size: 80%
+	}
+    .social-link img {
+    	width: 80%;
+    }
+    #introimage {
+    	line-height: 5em;
+    }
+		   }	
+}
+@media screen and (max-width: 390px) {
+	nav, nav a {
+	display: block;
+	}
+	h1 { 
+		font-size: 30%;  
+		} 
+	p {
+		font-size: 30%;
+	}
+	h2 {
+		font-size: 50%;
+	}
+	footer{
+		font-size: 80%;
+	}
+	h4 {
+		font-size: 80%
+	}
+    .social-link img {
+    	width: 80%;
+    }
+    #introimage {
+    	line-height: 5em;
+    }
+		   }	
+}
