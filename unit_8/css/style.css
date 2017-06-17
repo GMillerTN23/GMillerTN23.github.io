@@ -211,11 +211,3 @@ footer {
 	display: block;
 		   }	
 }
-@media screen and (max-width: 480px) { 
-	h1 { 
-		font-size: 50%;  
-		} 
-	p {
-		display: none;
-	}
-    }
