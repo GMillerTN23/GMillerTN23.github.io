@@ -218,16 +218,7 @@ footer {
 	p {
 		font-size: 30%;
 	}
-	h2 {
-		font-size: 50%;
-	}
-	footer{
-		font-size: 80%;
-	}
-	h4 {
-		font-size: 80%
-	}
-    .social-link img {
-    	width: 80%;
+    #introimage {
+    	line-height: 3em;
     }
 }
