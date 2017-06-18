@@ -236,17 +236,16 @@ footer {
     #introimage {
     	line-height: 5em;
     }
-		   }	
-}
-@media screen and (max-width: 390px) {
+}	
+@media screen and (max-width: 420px) {
 	nav, nav a {
 	display: block;
 	}
 	h1 { 
-		font-size: 30%;  
+		font-size: 50%;  
 		} 
 	p {
-		font-size: 30%;
+		font-size: 36%;
 	}
 	h2 {
 		font-size: 50%;
@@ -263,5 +262,78 @@ footer {
     #introimage {
     	line-height: 5em;
     }
-		   }	
+}	
+@media screen and (max-height: 550px) {
+h1 { 
+		font-size: 50%;  
+		} 
+	p {
+		font-size: 40%;
+	}
+	#introimage {
+    	line-height: 4em;
+	}
 }
+@media screen and (max-height: 435px) {
+h1 { 
+		font-size: 50%;  
+		} 
+	p {
+		font-size: 40%;
+	}
+	#introimage {
+    	line-height: 3em;
+	}
+}
+@media screen and (max-height: 330px) {
+h1 { 
+		font-size: 50%;  
+		} 
+	p {
+		font-size: 40%;
+	}
+	#introimage {
+    	line-height: 2em;
+	}
+}
+@media screen and (max-height: 250px) {
+h1 { 
+		font-size: 50%;  
+		} 
+	p {
+		font-size: 40%;
+	}
+	#introimage {
+    	line-height: 1em;
+	}
+}
+@media screen and (max-height: 460px) {
+#coffeeimage {
+		font-size: 500%;
+		line-height: 3em;
+	}
+#foodimage {
+		font-size: 500%;
+		line-height: 3em;
+		}	
+	}
+@media screen and (max-height: 400px) {
+#coffeeimage {
+		font-size: 500%;
+		line-height: 2em;
+	}
+#foodimage {
+		font-size: 500%;
+		line-height: 2em;
+		}	
+	}
+@media screen and (max-height: 310px) {
+#coffeeimage {
+		font-size: 500%;
+		line-height: 1em;
+	}
+#foodimage {
+		font-size: 500%;
+		line-height: 1em;
+		}	
+	}
